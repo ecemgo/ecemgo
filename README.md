@@ -3,11 +3,12 @@ I'm Ecem aka ecemgo
 
 - 🔭 I’m a front-end developer.
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
+- :computer: I worked on Augmented Reality (AR) in my thesis.
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
 - ⚡ Fun fact: I'm interested in watercolor and oil painting.
 
 
-###### Tools I Use:
+**Tools I Use:**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
@@ -38,4 +39,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 &nbsp;
+
+##### Tools I Use:
 -->
