@@ -2,7 +2,7 @@
 
 - :woman_technologist: I’m a front-end developer.
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
-- :iphone: I worked on Augmented Reality (AR) in my thesis.
+- :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
 - :art: Fun fact: I'm interested in watercolor and oil painting.
 
