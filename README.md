@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Ecem aka ecemgo
 
-- 🔭 I’m currently working on front-end development.
+- 🔭 I’m a front-end developer.
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
 - ⚡ Fun fact: I'm interested in watercolor and oil painting.
