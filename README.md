@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm Ecem aka ecemgo
 
-- 🔭 I’m a front-end developer.
+- :woman_technologist: I’m a front-end developer.
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
-- :computer: I worked on Augmented Reality (AR) in my thesis.
+- :iphone: I worked on Augmented Reality (AR) in my thesis.
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
-- ⚡ Fun fact: I'm interested in watercolor and oil painting.
+- :art: Fun fact: I'm interested in watercolor and oil painting.
 
 
 **Tools I Use:**
