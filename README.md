@@ -6,7 +6,6 @@ I'm Ecem aka ecemgo
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
 - ⚡ Fun fact: I'm interested in watercolor and oil painting.
 
-&nbsp;
 
 ###### Tools I Use:
 <p align="left">
@@ -20,7 +19,7 @@ I'm Ecem aka ecemgo
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> -->
 </p>
 
-&nbsp;
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemgo&color=blueviolet&style=flat" alt="ecemgo" /> </p>
 
@@ -37,4 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+&nbsp;
 -->
