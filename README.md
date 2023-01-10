@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemgo&color=blueviolet" alt="ecemgo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemgo&color=blueviolet&style=flat" alt="ecemgo" /> </p>
 
 <!--
 **ecemgo/ecemgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
