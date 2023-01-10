@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Ecem aka ecemgo.
+### Hi there 👋
+I'm Ecem aka ecemgo
 
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
