@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Ecem aka ecemgo
+### Hi there, I'm Ecem👋 
 
 - :woman_technologist: I’m a front-end developer.
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
