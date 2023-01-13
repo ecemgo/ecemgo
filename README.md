@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **ReactJS**, **VueJS** and **SASS**
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
-- :art: Fun fact: I'm interested in watercolor and oil painting. You can see my paintings [https://photos.app.goo.gl/fBJA7LvovZcwxZx3A] (here)
+- :art: Fun fact: I'm interested in watercolor and oil painting. You can see my paintings [here](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A)
 
 
 ## Tools I Use:
