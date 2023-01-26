@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Ecem
 
-- :woman_technologist: I’m a front-end developer.
+- :woman_technologist: I’m a frontend developer.
 - 🌱 I’m currently learning **ReactJS** and **VueJS**
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - 📫 How to reach me: [https://ecemgo.com](https://ecemgo.com)
