@@ -22,15 +22,6 @@
 
 ## Connect with Me:
 <p align="left">
-  <a href="https://codepen.io/ecemgo" target="blank">
-    <img
-      align="center"
-      src="https://user-images.githubusercontent.com/13468728/214892592-dab36577-3aad-4acf-ba91-32022f2a3d62.png"
-      alt="CodePen"
-      title="CodePen"
-      height="30"
-      width="30"
-  /></a>
   <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
     <img
       align="center"
@@ -46,6 +37,15 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="twitter"
       title="twitter" 
+      height="30"
+      width="30"
+  /></a>
+  <a href="https://codepen.io/ecemgo" target="blank">
+    <img
+      align="center"
+      src="https://user-images.githubusercontent.com/13468728/214892592-dab36577-3aad-4acf-ba91-32022f2a3d62.png"
+      alt="CodePen"
+      title="CodePen"
       height="30"
       width="30"
   /></a>
