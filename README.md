@@ -22,6 +22,7 @@
 
 </p>
 
+<!--
 ## Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
@@ -52,7 +53,7 @@
       width="30"
   /></a>
 </p>
-
+-->
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemgo&color=blueviolet&style=flat" alt="ecemgo" /> </p>
 
