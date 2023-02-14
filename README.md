@@ -57,7 +57,7 @@
 </p>
 -->
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemgo&color=blueviolet&style=flat" alt="ecemgo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo" /> </p>
 
 <!--
 &nbsp;
