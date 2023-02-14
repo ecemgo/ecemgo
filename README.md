@@ -21,8 +21,11 @@
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-
 </p>
+
+<br>
+
+<a href="https://github.com/leandroheliz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&langs_count=10&title_color=1c1c1c&text_color=1c1c1c&icon_color=0891b2&bg_color=f5f7fa&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 ## Connect with Me:
