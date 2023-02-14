@@ -1,4 +1,4 @@
-## Hi there👋 I'm Ecem
+<img src="https://user-images.githubusercontent.com/13468728/218759232-172fb8e5-35a8-474c-9c59-e20dba359a96.svg" width="400" height="100" alt="ecem gokdogan">
 
 - :woman_technologist: I’m a frontend developer.
 - :eyes: I'm keen on front-end technologies and eager to learn new ones.
