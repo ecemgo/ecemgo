@@ -25,7 +25,7 @@
 
 <br>
 
-<a href="https://github.com/leandroheliz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&langs_count=10&title_color=1c1c1c&text_color=1c1c1c&icon_color=0891b2&bg_color=f5f7fa&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/leandroheliz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&langs_count=10&title_color=1c1c1c&text_color=1c1c1c&icon_color=0891b2&bg_color=f5f7fa&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
 <!--
 ## Connect with Me:
