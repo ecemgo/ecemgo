@@ -29,9 +29,7 @@
 
 <br>
 
-<!--
-<a href="https://github.com/leandroheliz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&langs_count=10&title_color=1c1c1c&text_color=1c1c1c&icon_color=0891b2&bg_color=f5f7fa&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&hide=html&langs_count=10" alt="ecemgo" />&nbsp;</p>
 
 <!--
 ## Connect with Me:
@@ -72,18 +70,8 @@
 &nbsp;
 **ecemgo/ecemgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 &nbsp;
-
-##### Tools I Use:
 -->
