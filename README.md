@@ -1,7 +1,11 @@
 <img src="https://user-images.githubusercontent.com/13468728/218759232-172fb8e5-35a8-474c-9c59-e20dba359a96.svg" width="400" height="100" alt="ecem gokdogan">
 
+
+<img align="right" src="https://user-images.githubusercontent.com/13468728/219878503-c84cf7ff-a7d0-403f-940b-9905b7d6a8de.jpg" alt="illustration" width="360px"/>
+
 - :woman_technologist: I’m a frontend developer.
 - :eyes: I'm keen on front-end technologies and eager to learn new ones.
+- :dart: I find solutions to challenges in Frontend Mentor,  you can view what I've done or give feedback to me from [here](https://www.frontendmentor.io/profile/ecemgo). 
 - 🌱 I’m currently learning **React**, **Vue** and **NodeJS**
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - 📫 How to reach me: [ecemgo.com](https://ecemgo.com)
