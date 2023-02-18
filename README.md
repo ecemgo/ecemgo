@@ -5,7 +5,7 @@
 
 - :woman_technologist: I’m a frontend developer.
 - :eyes: I'm keen on front-end technologies and eager to learn new ones.
-- :dart: I find solutions to challenges in Frontend Mentor,  you can view what I've done or give feedback to me from [here](https://www.frontendmentor.io/profile/ecemgo). 
+- :dart: I find solutions to some challenges in Frontend Mentor,  you can view what I've done or give feedback to me from [here](https://www.frontendmentor.io/profile/ecemgo). 
 - 🌱 I’m currently learning **React**, **Vue** and **NodeJS**
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - 📫 How to reach me: [ecemgo.com](https://ecemgo.com)
