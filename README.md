@@ -29,7 +29,7 @@
 
 <br>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&hide=html&langs_count=10" alt="ecemgo" />&nbsp;</p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /> </p> &nbsp;
 
 <!--
 ## Connect with Me:
