@@ -26,51 +26,26 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+## Connect with Me:
+<div align="left">
+  <a href="https://twitter.com/ecemgo" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" title="twitter" height="30" width="30"/></a>
+  <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
+    <img src="https://user-images.githubusercontent.com/13468728/230120502-ed2eb726-bf17-44fa-81ff-349cc5aa8062.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
+  <a href="https://www.frontendmentor.io/profile/ecemgo" target="blank">
+    <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="30" width="30"/></a>
+  <a href="https://codepen.io/ecemgo" target="blank">
+    <img src="https://user-images.githubusercontent.com/13468728/230120292-800470da-41da-492d-8320-5e898d707c82.svg" alt="CodePen" title="CodePen" height="30" width="30"/></a>
+</div>
+
 <br>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /> </p> &nbsp;
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
 
-<!--
-## Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      title="LinkedIn"
-      height="30"
-      width="30"
-  /></a>
-  <a href="https://twitter.com/ecemgo" target="blank">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="twitter"
-      title="twitter" 
-      height="30"
-      width="30"
-  /></a>
-  <a href="https://codepen.io/ecemgo" target="blank">
-    <img
-      align="center"
-      src="https://user-images.githubusercontent.com/13468728/214892592-dab36577-3aad-4acf-ba91-32022f2a3d62.png"
-      alt="CodePen"
-      title="CodePen"
-      height="30"
-      width="30"
-  /></a>
-</p>
--->
-
 
 <!--
 &nbsp;
-**ecemgo/ecemgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-&nbsp;
 -->
