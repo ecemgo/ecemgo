@@ -30,13 +30,13 @@
 ## Connect with Me:
 <div align="left">
   <a href="https://twitter.com/ecemgo" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" title="twitter" height="30" width="30"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" title="twitter" height="30" width="30"/></a>
   <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
-    <img src="https://user-images.githubusercontent.com/13468728/230120502-ed2eb726-bf17-44fa-81ff-349cc5aa8062.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
+  <a href="https://codepen.io/ecemgo" target="blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="CodePen" title="CodePen" height="30" width="30"/></a>
   <a href="https://www.frontendmentor.io/profile/ecemgo" target="blank">
     <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="30" width="30"/></a>
-  <a href="https://codepen.io/ecemgo" target="blank">
-    <img src="https://user-images.githubusercontent.com/13468728/230120292-800470da-41da-492d-8320-5e898d707c82.svg" alt="CodePen" title="CodePen" height="30" width="30"/></a>
 </div>
 
 <br>
