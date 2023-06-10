@@ -11,7 +11,6 @@
 - :dart: I find solutions to some challenges on Frontend Mentor,  you can view what I've done from [here](https://www.frontendmentor.io/profile/ecemgo).
 - 🌱 I’m currently learning **React**.
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
-- 📫 How to reach me: [ecemgo.com](https://ecemgo.com)
 - :art: Fun fact: I'm interested in watercolor and oil painting, you can see my paintings [here](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
 
 
