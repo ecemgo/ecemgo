@@ -41,7 +41,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
   <img src="https://github.com/ecemgo/readme-files/assets/13468728/ee51afb8-dd6c-46db-8c44-6462bee0d17c" title="sublime" alt="sublime" width="43" height="43"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>
-    <img src="https://github.com/ecemgo/pig-game/assets/13468728/4f693878-2d8b-449e-a646-d02d942f2a36" title="codesandbox" alt="codesandbox" width="42" height="42"/>
 </div> 
 
 <div align="left">
