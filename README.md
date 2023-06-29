@@ -65,6 +65,4 @@
 <img src="https://user-images.githubusercontent.com/13468728/218759232-172fb8e5-35a8-474c-9c59-e20dba359a96.svg" width="400" height="100" alt="ecem gokdogan">
 <img align="right" src="https://user-images.githubusercontent.com/13468728/219878503-c84cf7ff-a7d0-403f-940b-9905b7d6a8de.jpg" alt="illustration" width="360px"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /></p>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 -->
