@@ -46,7 +46,7 @@
 <div align="left">
   <h3>Connect with Me</h3>
   <a href="https://twitter.com/ecemgo" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" title="twitter" height="30" width="30"/></a>
+    <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c9cdd5c0-eca2-4eab-ae64-fb048eaf800f" alt="twitter" title="twitter" height="30" width="30"/></a>
   <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
   <a href="https://codepen.io/ecemgo" target="blank">
