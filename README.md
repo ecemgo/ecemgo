@@ -37,13 +37,6 @@
 </div>
 
 <div align="left">
-  <h3>IDEs</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-  <img src="https://github.com/ecemgo/readme-files/assets/13468728/ee51afb8-dd6c-46db-8c44-6462bee0d17c" title="sublime" alt="sublime" width="43" height="43"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" title="codepen" alt="codepen" width="40" height="40"/>
-</div> 
-
-<div align="left">
   <h3>Connect with Me</h3>
   <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
