@@ -7,7 +7,7 @@
 </div>
 
 - :woman_technologist: I’m a frontend developer.
-- :eyes: I'm keen on front-end technologies and eager to learn them.
+- :eyes: I'm keen on frontend development and eager to learn related tools.
 - :owl: After learning some CSS tricks, I improve and display them on [my Codepen](https://codepen.io/ecemgo).
 - :dart: I find solutions to some challenges on Frontend Mentor,  you can view [what I've done](https://www.frontendmentor.io/profile/ecemgo).
 - 🌱 I’m currently learning **React**.
