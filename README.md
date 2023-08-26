@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1> Hey Folks <img src="https://user-images.githubusercontent.com/13468728/234081554-5d90fdac-2b52-4a53-b653-e8c28b21dcec.gif" width="40px" height="40px"> I'm Ecem </h1>
+  <h1> Hi there <img src="https://user-images.githubusercontent.com/13468728/234081554-5d90fdac-2b52-4a53-b653-e8c28b21dcec.gif" width="40px" height="40px"> I'm Ecem </h1>
 </div>
 
 - :woman_technologist: I’m a frontend developer.
