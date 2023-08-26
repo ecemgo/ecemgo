@@ -8,6 +8,7 @@
 
 - :woman_technologist: I’m a frontend developer.
 - :eyes: I'm keen on front-end technologies and eager to learn them.
+- :owl: After learning interesting features about css, I improve mini projects and display them in Codepen. You can check out [my pens](https://codepen.io/ecemgo).
 - :dart: I find solutions to some challenges on Frontend Mentor,  you can view [what I've done](https://www.frontendmentor.io/profile/ecemgo).
 - 🌱 I’m currently learning **React**.
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
@@ -36,6 +37,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+<br>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&langs_count=10" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
+
+<!--
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /></p>
+
+<br> 
+
 <div align="left">
   <h3>Connect with Me</h3>
   <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
@@ -47,15 +58,4 @@
   <a href="https://www.frontendmentor.io/profile/ecemgo" target="blank">
     <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="30" width="30"/></a>
 </div>
-
-<br>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&langs_count=10" /></p>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
-
-<!--
-&nbsp;
-<img src="https://user-images.githubusercontent.com/13468728/218759232-172fb8e5-35a8-474c-9c59-e20dba359a96.svg" width="400" height="100" alt="ecem gokdogan">
-<img align="right" src="https://user-images.githubusercontent.com/13468728/219878503-c84cf7ff-a7d0-403f-940b-9905b7d6a8de.jpg" alt="illustration" width="360px"/>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /></p>
 -->
