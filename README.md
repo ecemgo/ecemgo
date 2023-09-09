@@ -39,7 +39,7 @@
 
 <br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dark&hide_border=true" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
 
 <!--
