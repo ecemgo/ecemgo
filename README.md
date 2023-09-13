@@ -14,7 +14,6 @@
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - :art: Fun fact: I'm interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
 
-
 <div align="left">
   <h3>Tools I Use</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
@@ -33,6 +32,10 @@
 </div>
 
 <br>
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,md,vscode,codepen,netlify)](https://skillicons.dev)
+<br>
+-->
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
