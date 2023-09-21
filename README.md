@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"alt="ecem gokdogan" />
 </div>
 
-<div align="center">
-  <h1> Hi there <img src="https://user-images.githubusercontent.com/13468728/234081554-5d90fdac-2b52-4a53-b653-e8c28b21dcec.gif" width="40px" height="40px"></h1>
-</div>
+<br>
 
 - :woman_technologist: I’m a frontend developer.
 - :eyes: I'm keen on frontend development and eager to learn related tools.
@@ -41,6 +39,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
 
 <!--
+<div align="center">
+  <h1> Hi there <img src="https://user-images.githubusercontent.com/13468728/234081554-5d90fdac-2b52-4a53-b653-e8c28b21dcec.gif" width="40px" height="40px"></h1>
+</div>
+
 GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /></p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&langs_count=10" /></p>
