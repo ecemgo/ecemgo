@@ -21,6 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" />
     <img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/8e9d5e54-8c4c-4a16-b46a-c038582d08cb" title="lighthouse" alt="lighthouse" width="40" height="40" />
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" /> -->
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> -->
@@ -30,6 +31,7 @@
 </div>
 
 <br>
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev)
 <br>
