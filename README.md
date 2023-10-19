@@ -12,30 +12,11 @@
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - :art: Fun fact: I'm interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
 
-<div align="left">
-  <h3>Tools I Use</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" />
-    <img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/8e9d5e54-8c4c-4a16-b46a-c038582d08cb" title="lighthouse" alt="lighthouse" width="40" height="40" />
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" /> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/> -->
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> -->
-</div>
-
 <br>
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
+
 <br>
--->
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /></p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
@@ -62,5 +43,22 @@ GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="CodePen" title="CodePen" height="30" width="30"/></a>
   <a href="https://www.frontendmentor.io/profile/ecemgo" target="blank">
     <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="30" width="30"/></a>
+</div>
+-->
+
+<!--
+<div align="left">
+  <h3>Tools I Use</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" />
+    <img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/8e9d5e54-8c4c-4a16-b46a-c038582d08cb" title="lighthouse" alt="lighthouse" width="40" height="40" />
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/> -->
 </div>
 -->
