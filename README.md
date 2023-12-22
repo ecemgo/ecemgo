@@ -4,8 +4,7 @@
 
 <br>
 
-- :woman_technologist: I’m a frontend developer.
-- :eyes: I'm keen on frontend development and eager to learn related tools.
+- :woman_technologist: I’m a frontend developer and I have a passion for building creative projects by using CSS and JS libraries.
 - :owl: After learning some CSS tricks, I improve and display them on [my Codepen](https://codepen.io/ecemgo).
 - 🌟 I also add some works of mine to [my Youtube channel](https://www.youtube.com/@ecemgokdogan).
 - 🌱 I’m currently learning **React**.
