@@ -8,7 +8,6 @@
 - :eyes: I'm keen on frontend development and eager to learn related tools.
 - :owl: After learning some CSS tricks, I improve and display them on [my Codepen](https://codepen.io/ecemgo).
 - 🌟 I also add some works of mine to [my Youtube channel](https://www.youtube.com/@ecemgokdogan).
-- :dart: I find solutions to some challenges on Frontend Mentor,  you can view [what I've done](https://www.frontendmentor.io/profile/ecemgo).
 - 🌱 I’m currently learning **React**.
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - :art: I'm interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
