@@ -16,7 +16,14 @@
 
 <br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /></p>
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
+                                    
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" />
+</div>
+
+<br><br>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
 
 <!--
