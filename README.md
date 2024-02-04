@@ -16,10 +16,9 @@
 
 <br>
 
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
-                        
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" />
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" />
 </div>
 
 <br><br>
