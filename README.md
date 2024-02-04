@@ -16,15 +16,15 @@
 
 <br>
 
-<div align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" />
 </div>
 
 <br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/></p>
-
+<img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/>
+  
 <!--
 <div align="center">
   <h1> Hi there <img src="https://user-images.githubusercontent.com/13468728/234081554-5d90fdac-2b52-4a53-b653-e8c28b21dcec.gif" width="40px" height="40px"></h1>
