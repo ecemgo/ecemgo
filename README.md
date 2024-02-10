@@ -18,6 +18,7 @@
 
 <div align="left">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ecemgo&show_icons=true&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
