@@ -53,17 +53,4 @@ GitHub Readme Stats comes with several built-in themes (e.g. `dark`, `radical`, 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&langs_count=10" /></p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=buefy&hide=html&langs_count=10" /></p>
 
-<br> 
-
-<div align="left">
-  <h3>Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/ecem-gokdogan/" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30"/></a>
-    <a href="https://twitter.com/ecemgo" target="blank">
-    <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/c9cdd5c0-eca2-4eab-ae64-fb048eaf800f" alt="twitter" title="twitter" height="25" width="25"/></a>
-  <a href="https://codepen.io/ecemgo" target="blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="CodePen" title="CodePen" height="30" width="30"/></a>
-  <a href="https://www.frontendmentor.io/profile/ecemgo" target="blank">
-    <img src="https://user-images.githubusercontent.com/13468728/230118926-2cb0d52a-20bc-4ebb-aff3-7096bd97f1fa.svg" alt="Frontend Mentor" title="Frontend Mentor" height="30" width="30"/></a>
-</div>
 -->
