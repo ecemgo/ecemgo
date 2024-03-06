@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React**.
 - :iphone: I worked on Augmented Reality (AR) on my master thesis.
 - :art: I'm interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
-- :envelope: You can contact me through [the contact form in my portfolio](https://ecemgo.netlify.app/#contact) for collaboration or to express your thoughts.
+- :envelope: You can contact me through [the contact form in my portfolio](https://ecemgo.netlify.app/#contact) for collaboration.
 
 <br>
 
