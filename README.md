@@ -15,6 +15,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
 
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,styledcomponents,svg,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
+-->
 <br>
 
 <div align="left">
@@ -33,6 +36,7 @@
 </div>
 
 <div align="left">
+
   <h3>Tools I Use</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
