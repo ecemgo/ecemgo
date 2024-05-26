@@ -13,7 +13,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,svg,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,styledcomponents,svg,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
