@@ -15,15 +15,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,svg,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,sass,styledcomponents,svg,git,github,figma,md,vscode,codepen,netlify)](https://skillicons.dev) 
--->
 <br>
 
 <div align="left">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=ecemgo&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /> -->
 </div>
 
 <br>
@@ -31,10 +28,6 @@
 <img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/>
   
 <!--
-<div align="center">
-  <h1> Hi there <img src="https://user-images.githubusercontent.com/13468728/234081554-5d90fdac-2b52-4a53-b653-e8c28b21dcec.gif" width="40px" height="40px"></h1>
-</div>
-
 <div align="left">
 
   <h3>Tools I Use</h3>
