@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450"alt="ecem gokdogan" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="450" alt="ecem gokdogan" />
 </div>
 
 <br>
 
-- :woman_technologist: I have a passion for building creative projects by using CSS and JS libraries.
+- :woman_technologist: I am interested in building creative projects using CSS and JS libraries.
 - 🌟 I consistently share my original works on my [Codepen profile](https://codepen.io/ecemgo) and [Youtube channel](https://www.youtube.com/@ecemgokdogan).
 - :iphone: I worked on Augmented Reality (AR) in my master's thesis.
 - :art: I'm interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
