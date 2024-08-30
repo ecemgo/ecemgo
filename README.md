@@ -4,10 +4,10 @@
 
 <br>
 
-- :woman_technologist: I am interested in building creative projects using CSS and JS libraries.
+- :woman_technologist: I'm interested in building creative projects using CSS and JS libraries.
 - 🌟 I consistently share my original works on my [Codepen profile](https://codepen.io/ecemgo) and [Youtube channel](https://www.youtube.com/@ecemgokdogan).
 - :iphone: I worked on Augmented Reality (AR) in my master's thesis.
-- :art: I'm interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
+- :art: I'm also interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
 - :envelope: You can contact me at gokdoganecem@gmail.com
 
 <br>
