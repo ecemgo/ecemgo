@@ -15,17 +15,12 @@
 
 <br>
 
-<div align="left">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ecemgo&show_icons=true&theme=dracula" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" /> -->
-</div>
+<img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ecemgo&color=31c9c7&style=flat" alt="ecemgo"/>
-  
 <!--
+
 <div align="left">
 
   <h3>Tools I Use</h3>
@@ -40,6 +35,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="38" height="38" />
     <img src="https://github.com/ecemgo/frontend-mentor-challenges/assets/13468728/8e9d5e54-8c4c-4a16-b46a-c038582d08cb" title="lighthouse" alt="lighthouse" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>
+</div>
+
+<br> 
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecemgo&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ecemgo&show_icons=true&theme=dracula" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemgo&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <br> 
