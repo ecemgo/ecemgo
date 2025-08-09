@@ -4,10 +4,11 @@
 
 <br>
 
-- :woman_technologist: I'm interested in building creative projects using CSS and JS libraries.
-- 🌟 I consistently share my original works on my [Codepen profile](https://codepen.io/ecemgo) and [Youtube channel](https://www.youtube.com/@ecemgokdogan).
+- :woman_technologist: I create interactive and visually engaging web projects using CSS, JavaScript, and JS libraries like GSAP, Swiper JS, and so on.
+- 🎯 My focus is on blending design and code to build creative, animation-rich user experiences.
+- 🌟 I regularly share my original projects and tutorials on [Youtube channel](https://www.youtube.com/@ecemgokdogan) and [Codepen profile](https://codepen.io/ecemgo).
 - :iphone: I worked on Augmented Reality (AR) in my master's thesis.
-- :art: I'm also interested in watercolor and oil painting, you can see [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
+- 🎨 I also enjoy watercolor and oil painting — a passion that inspires my visual design style. You can view [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
 
 <br>
 
