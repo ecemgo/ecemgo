@@ -4,10 +4,9 @@
 
 <br>
 
-- :woman_technologist: Creating interactive and visually engaging web projects using CSS, JavaScript, and JS libraries like GSAP, Swiper JS, and so on.
+- :woman_technologist: Creating interactive web projects using CSS, JavaScript, and JS libraries like GSAP, Swiper JS, and so on.
 - 🌟 Sharing my original projects and tutorials on [Youtube channel](https://www.youtube.com/@ecemgokdogan) and [Codepen profile](https://codepen.io/ecemgo).
-- :iphone: I worked on Augmented Reality (AR) in my master's thesis.
-- 🎨 Enjoying watercolor and oil painting — a passion that inspires my visual design style. You can view [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
+- 🎨 Also enjoying watercolor and oil painting. You can view [my paintings](https://photos.app.goo.gl/fBJA7LvovZcwxZx3A).
 
 <br>
 
